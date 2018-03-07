@@ -4,5 +4,8 @@
         "module": "es6",
         "moduleResolution": "node",
         "sourceMap": true
+    },
+    "parcelTsPluginOptions": {
+        "transpileOnly": false
     }
 }
