@@ -1,0 +1,28 @@
+{
+  "name": "parceljs-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/dev-bundler.js",
+    "parcel": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenoPot/parceljs-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xenoPot/parceljs-trial/issues"
+  },
+  "homepage": "https://github.com/xenoPot/parceljs-trial#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "parcel-bundler": "^1.6.2",
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.2"
+  }
+}
